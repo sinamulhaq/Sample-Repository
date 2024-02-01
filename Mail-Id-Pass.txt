@@ -1,0 +1,28 @@
+password: xN597apvAdlY8s_au
+Email: inam.shaikh@aegisiscteam.com
+
+
+
+UPDATE users SET password='E2Ab2k6njlWge5iGbSvmvgdE44ZvE8AMgRyrYIoo8yI=', password_reset_token='dbe974f6-1a34-4e20-83e4-cebdba740463'
+
+WHERE email='admin@kochind.com'
+
+
+31-01-2024_supsert
+
+How to commite the code :
+checkout branch in which you have to commite : E.g, ->1. right click on project and click on Pull
+                                                      2. right click on project and click on Team -> click on Switch to-> click on Other -> select the branch in which you have to commite the code.
+													  3. switch workspace to git ->Drag the file or code which you have to commite from unstaged changes to staged changes
+													  4.click on commite & push option ->close the popup
+													  
+
+
+
+
+
+
+
+
+
+
